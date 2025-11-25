@@ -4,7 +4,7 @@ export default function Home() {
 =======
   return (
     <>
-      <h1>Hello World!</h1>
+      <h1>good afternoon friends</h1>
     </>
   );
 >>>>>>> 1962afa96069fe9a69a19b532da3dc1deda1a774
